@@ -1,0 +1,55 @@
+.title{
+text-align: center;
+Font-family: Segoe UI;
+font-size: 3em;
+color: black;
+margin-top:30px;
+}
+body{
+background-image: url(Images/westbuckland3.png);
+background-repeat: no-repeat;
+background-size: 60px;
+background-position: 20px 20px;
+}
+
+.articleHeader{
+font-family: Segoe UI;
+text-align: center; 
+font-size:2.5em;
+}
+
+a{
+font-family: Segoe UI;
+}
+p{
+font-family: Segoe UI;
+font-size: 1.5em;
+}
+div.wrapper{
+margin-left: 15%;
+margin-right: 15%;
+}
+
+
+.header2{
+Font-family: Segoe UI;
+font-size: 1.5em;
+color: black;
+}
+.border1{
+border: 2px solid light blue;
+}
+
+.column{
+float: left;
+width: 33.33%;s
+}
+
+.zoom{
+  transition: transform .2s;
+}
+.zoom:hover {
+ transform: scale(1.2);
+}
+
+
